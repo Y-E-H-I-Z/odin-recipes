@@ -1,0 +1,63 @@
+.Home{
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid #333;
+    border-radius: 8px;
+    color: #333;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.Home:hover {
+  background-color: #333;
+  color: white;
+  box-shadow: 0 0 15px #333;
+}
+
+.subtitle {
+    font-size: 24px;
+    margin-top: 20px;
+    color: #555;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 32px;
+    margin-top: 20px;
+    color: #222;
+    text-align:center;
+    font-weight: bold;
+}
+
+.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.Description {
+    font-size: 18px;
+    margin-top: 10px;
+    color: #444;
+}
+
+.Ingredients {
+    font-size: 18px;
+    margin-top: 10px;
+    color: #444;
+}
+
+.Steps {
+    font-size: 18px;
+    margin-top: 10px;
+    color: #444;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    line-height:2;
+}
