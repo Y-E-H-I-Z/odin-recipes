@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 20px;
+}
+.title{
+    text-align: center;
+    color: #333;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.lasagna a{
+    color: #d2691e;
+    font-weight: bold;
+}
+
+.rice a{
+    color: #ff4500;
+    font-weight: bold;
+}
+
+.chicken a{
+    color: #8b0000;
+    font-weight: bold;
+}
