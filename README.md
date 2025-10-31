@@ -1,22 +1,46 @@
-# odin-recipes
-Recipe Page Project
-Introduction:
+# Project Title  
+odin-recipes
 
-This project is a simple recipe webpage built using HTML. It displays a delicious dish with its description, ingredients, and step-by-step instructions. The page structure follows semantic HTML practices to make the content clear and accessible.
+## Description  
+A simple recipe webpage built using semantic HTML.  
+This project displays a delicious dish with its description, ingredients, and step-by-step instructions.  
+Its purpose is to practise writing clean, semantic HTML code and organizing web content effectively, while reinforcing elements like headings, lists, images and paragraphs for accessibility and readability.
 
-Purpose:
+## Built With  
+- HTML (semantic elements: <header>, <section>, <article>, <figure>, <figcaption>, etc)  
+- CSS for styling the page  
 
-The purpose of this project is to practice writing clean, semantic HTML code and organizing web content effectively. It also reinforces how to use elements such as headings, lists, images, and paragraphs in a meaningful way.
+## Features  
+- Semantic HTML structure for improved readability and accessibility  
+- Clear organization of ingredients and cooking steps via lists  
+- Images with proper alt text to enhance usability  
+- Simple and maintainable code suitable for beginners and for demonstration  
 
-Skills Demonstrated:
+## Getting Started  
+### Prerequisites  
+- A modern web browser (Chrome, Firefox, Safari, etc)  
+- A code editor (optional: VS Code, Sublime, etc)  
 
-By completing this project, I have demonstrated the ability to:
+### Installation  
+1. Clone the repository:  
+   `git clone https://github.com/Y-E-H-I-Z/odin-recipes.git`  
+2. Navigate into the project folder:  
+   `cd odin-recipes`  
+3. Open `index.html` in your browser or serve the folder via a local development server.
 
-Structure a webpage using semantic HTML elements like <header>, <main>, <section>, <h1>–<h2>, <ul>, and <ol>.
-Insert and describe images using the <img> element with proper alt text.
-Create organized and readable lists for ingredients and cooking steps.
-Write clear and maintainable code suitable for accessibility and readability.
+### Usage  
+- View the page in browser to see the recipe page layout.  
+- Inspect the HTML structure to study how semantic tags are used.  
+- Modify or extend the recipe to try your own dish: update the image, ingredients list, cooking steps.
 
-Reflection
+## Contributing  
+Contributions are welcome! Feel free to fork the repo, make your changes, and submit a pull request.  
+Please follow good HTML/CSS practices and keep accessibility in mind.
 
-This project helped strengthen my understanding of basic web page layout and reinforced good HTML practices. I learned how important it is to use semantic elements for both human readers and assistive technologies, ensuring a more inclusive user experience.
+## License  
+This project is open-source and available under the [MIT License](LICENSE) (or specify another if you choose).
+
+## Acknowledgements  
+- Thanks to the The Odin Project curriculum for the project idea and structure.  
+- Any other resources or tutorials you used.
+
