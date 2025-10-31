@@ -7,7 +7,7 @@ This project displays a delicious dish with its description, ingredients, and st
 Its purpose is to practise writing clean, semantic HTML code and organizing web content effectively, while reinforcing elements like headings, lists, images and paragraphs for accessibility and readability.
 
 ## Built With  
-- HTML (semantic elements: <header>, <section>, <article>, <figure>, <figcaption>, etc)  
+- HTML (semantic elements: "<header>", "<section>", "<article>", "<figure>", "<figcaption>", etc)  
 - CSS for styling the page  
 
 ## Features  
